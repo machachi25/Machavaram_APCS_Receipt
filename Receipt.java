@@ -6,10 +6,7 @@ public class Receipt
 {
     public static void main(String[] args)
     {
-        System.out.println("Hello World");
-
-        System.out.println("This is twyford");
-
-        System.out.println("changed are being made in thine code");
+       System.out.println("Welcome to Chin-pie's cookie store.");
+       System.out.println("Which one would you like?");
     }
 }
